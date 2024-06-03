@@ -1,0 +1,4 @@
+IN,Mạng tốc độ cao,Lê Thị Mơ,IN1,12/12/2002,10 mbit/s
+IN,Mạng cáp quang,Đậu Thị Bưởi,IN2,9/11/2014,20 mbit/s
+DT,điện thoại trả sau,Nguyễn Như Ý,DT1,29/01/2001,3G
+DT,điện thoại trả trước,Lê Anh,DT2,29/02/2001,4G
