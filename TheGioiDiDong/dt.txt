@@ -1,0 +1,4 @@
+CD0001,nokia,viettel,500,black
+DD0002,iphone15,iphone,600,12/12/2032,256
+CD0003,Hwei,mobiphone,750,white
+DD0004,gford,samsung,475,8/8/2034,128

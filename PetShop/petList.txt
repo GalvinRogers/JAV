@@ -1,0 +1,4 @@
+Hank,3,SG,husky
+Tom,4,HN,red
+Mina,5,DN,blue
+Bo,2,HN,corgi
